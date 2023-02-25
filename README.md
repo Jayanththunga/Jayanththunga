@@ -1,4 +1,4 @@
-![Header](github-header-image.png)
+![Header](newimg.png)
 
 <h1 align="center">Hi 👋, I'm Jayanth Thunga</h1>
 <h3 align="center">I'm a designer and programmer in my pre-final year at VIT, Vellore. I seek to create light, aesthetic and minimalistic webpages. My webpages are designed with a focus on simplicity. I have experience in designing landing pages, logos and more.</h3>
