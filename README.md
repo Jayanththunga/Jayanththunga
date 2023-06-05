@@ -30,7 +30,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayanththunga&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="jayanththunga" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayanththunga&show_icons=true&theme=gruvbox&locale=en" alt="jayanththunga" /></p> -->
 
-<h3><i>My GitHub Stats</i></h3>
+<h3>My GitHub Stats</h3>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=geekyshow1&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="jayanththunga" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanththunga&layout=compact&border_radius=0&theme=dark" alt="geekyshow1" height="139" />
