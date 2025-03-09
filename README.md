@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jayanththunga.github.io/](https://jayanththunga.github.io/)
 
-- 💬 Ask me about **Java, Brand design, Front end design, Data structures and Algorithms**
+- 💬 Ask me about **Java, Data structures and Algorithms, Automation**
 
 - 📫 How to reach me **jayanththunga27@gmail.com**
 
